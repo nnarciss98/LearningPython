@@ -1,4 +1,4 @@
-3# Chapter 3 - Functions
+# Chapter 3 - Functions
 
 # 1. Function Definitions
 def greet(name):
