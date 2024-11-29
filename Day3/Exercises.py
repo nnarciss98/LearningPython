@@ -2,7 +2,6 @@
 import re
 from collections import Counter
 
-
 def check_password_strength(password):
     # Check for at least one uppercase letter
     if not re.search(r'[A-Z]', password):
